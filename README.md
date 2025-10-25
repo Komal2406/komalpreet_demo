@@ -1,4 +1,4 @@
 # komalpreet_demo
 This is my first repository
 <br>
-author-komal
+author-komal(its me)
